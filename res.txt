@@ -1,0 +1,19 @@
+PowerShell Resources
+====================
+
+  Visual Studio Code editing features for PowerShell development – Part 1
+  https://blogs.technet.microsoft.com/heyscriptingguy/2017/01/11/visual-studio-code-editing-features-for-powershell-development-part-1/
+  
+  
+  Visual Studio Code editing features for PowerShell development – Part 2
+  https://blogs.technet.microsoft.com/heyscriptingguy/2017/01/12/visual-studio-code-editing-features-for-powershell-development-part-2/
+  
+  
+  Table of Basic PowerShell Commands
+  https://blogs.technet.microsoft.com/heyscriptingguy/2015/06/11/table-of-basic-powershell-commands/
+  
+  
+
+
+
+
